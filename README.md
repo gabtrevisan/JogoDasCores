@@ -18,4 +18,4 @@ A qualquer momento e depois que acabar o jogo atual, o usuário pode começar um
 - 2 pontos a cada retângulo eliminado na terceira rodada.
 - 1 ponto a cada retângulo eliminado na quarta rodada. 
 
-_Trabalho desenvolvido para a disciplina de Processamento Gráfico (UNISINOS)._
+_Trabalho desenvolvido para a disciplina de Processamento Gráfico (UNISINOS) em 2016/2._
